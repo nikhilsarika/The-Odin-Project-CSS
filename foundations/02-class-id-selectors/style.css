@@ -1,0 +1,20 @@
+.odd-class{
+    background-color: #ffc0cb;
+    font-family: Verdana, 'DejaVu Sans', sans-serif;
+
+}
+
+#evenId1{
+    color: #0000ff;
+    font-size: 36px;
+}
+
+.special{
+    font-size: 24px;
+}
+
+#evenId2{
+    background-color: #90ee90;
+    font-size: 24px;
+    font-weight: bold;
+}
